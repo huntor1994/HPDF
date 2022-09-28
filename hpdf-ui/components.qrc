@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/components">
+        <file alias="TitleBar.qml">components/TitleBar.qml</file>
+        <file alias="HPdfMultiPageView.qml">components/HPdfMultiPageView.qml</file>
+        <file alias="qmldir">components/qmldir</file>
+        <file alias="VToolBar.qml">components/VToolBar.qml</file>
+        <file alias="ThumbnailBar.qml">components/ThumbnailBar.qml</file>
+        <file alias="RoundRectangle.qml">components/RoundRectangle.qml</file>
+        <file alias="HPdfButton.qml">components/HPdfButton.qml</file>
+        <file alias="HPdfToolTip.qml">components/HPdfToolTip.qml</file>
+        <file alias="FileMenu.qml">components/FileMenu.qml</file>
+        <file alias="HelpMenu.qml">components/HelpMenu.qml</file>
+        <file alias="HpdfTab.qml">components/HpdfTab.qml</file>
+        <file alias="MenuNormalButton.qml">components/MenuNormalButton.qml</file>
+        <file alias="SplitLine.qml">components/SplitLine.qml</file>
+        <file alias="MenuNextButton.qml">components/MenuNextButton.qml</file>
+        <file alias="TitlebarButton.qml">components/TitlebarButton.qml</file>
+        <file alias="OpenFilesMenu.qml">components/OpenFilesMenu.qml</file>
+        <file alias="TabPopupMenu.qml">components/TabPopupMenu.qml</file>
+        <file alias="HPdfWorkArea.qml">components/HPdfWorkArea.qml</file>
+        <file alias="Bookmark.qml">components/Bookmark.qml</file>
+        <file alias="HPdfRecentlyOpenedFilesButton.qml">components/HPdfRecentlyOpenedFilesButton.qml</file>
+        <file alias="RecentlyOpenedFilesMenu.qml">components/RecentlyOpenedFilesMenu.qml</file>
+        <file alias="ThumbnailsView.qml">components/ThumbnailsView.qml</file>
+    </qresource>
+</RCC>

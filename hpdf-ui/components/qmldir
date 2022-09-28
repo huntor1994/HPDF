@@ -1,0 +1,19 @@
+module components
+HPdfMultiPageView 1.0 HPdfMultiPageView.qml
+TitleBar 1.0 TitleBar.qml
+VToolBar 1.0 VToolBar.qml
+ThumbnailBar 1.0 ThumbnailBar.qml
+RoundRectangle 1.0 RoundRectangle.qml
+HPdfButton 1.0 HPdfButton.qml
+HPdfToolTip 1.0 HPdfToolTip.qml
+FileMenu 1.0 FileMenu.qml
+HelpMenu 1.0 HelpMenu.qml
+MenuNormalButton 1.0 MenuNormalButton.qml
+SplitLine 1.0 SplitLine.qml
+MenuNextButton 1.0 MenuNextButton.qml
+TabPopupMenu 1.0 TabPopupMenu.qml
+HPdfWorkArea 1.0 HPdfWorkArea.qml
+Bookmark 1.0 Bookmark.qml
+HPdfRecentlyOpenedFilesButton 1.0 HPdfRecentlyOpenedFilesButton.qml
+RecentlyOpenedFilesMenu 1.0 RecentlyOpenedFilesMenu.qml
+ThumbnailsView 1.0 ThumbnailsView.qml
