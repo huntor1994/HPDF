@@ -1,7 +1,6 @@
 TEMPLATE = subdirs
 
-SUBDIRS += \
-#    hpdf-tests \
+SUBDIRS += \ 
     hpdf-lib \
     hpdf-tests \
     hpdf-ui
