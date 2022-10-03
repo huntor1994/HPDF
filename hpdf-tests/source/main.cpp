@@ -1,7 +1,7 @@
 #include <QtTest/QtTest>
 #include <QDebug>
 #include "test-suite.h"
-using namespace cm;
+using namespace hpdf;
 
 int main(int argc, char *argv[]){
     Q_UNUSED(argc);

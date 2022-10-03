@@ -1,7 +1,7 @@
 #include "test-suite.h"
 
 
-namespace cm {
+namespace hpdf {
 TestSuite::TestSuite(const QString& _testName)
     : QObject()
     ,testName(_testName)

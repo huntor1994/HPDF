@@ -10,3 +10,15 @@ CONFIG -= app_bundle
 
 TEMPLATE = app
 
+SOURCES += \
+    source/controllers/master-controller-tests.cpp \
+    source/main.cpp \
+    source/test-suite.cpp
+
+HEADERS += \
+    source/controllers/master-controller-tests.h \
+    source/test-suite.h
+
+
+INCLUDEPATH+=source\
+            ../hpdf-lib/source
