@@ -2,7 +2,7 @@ include(../qmake-target-platform.pri)
 include(../qmake-destination-path.pri)
 QT += testlib
 QT -= gui
-QT += sql
+QT += sql pdf
 
 TARGET=client-tests
 CONFIG += qt console warn_on depend_includepath testcase
