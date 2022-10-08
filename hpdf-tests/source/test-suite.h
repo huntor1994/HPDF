@@ -5,7 +5,7 @@
 #include <QtTest/QtTest>
 #include <vector>
 
-namespace cm {
+namespace hpdf {
 class  TestSuite : public QObject
 {
     Q_OBJECT
