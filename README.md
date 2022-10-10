@@ -1,9 +1,9 @@
 # HPDF
 A pdf reader was written by qml6. 
 
-Implemented Features:
+Features:
 
-1.Multi Pdf Files Tab(dynamic tabs display according to the size of the window);
+-[] Multi Pdf Files Tab(dynamic tabs display according to the size of the window);
 
 2.Read/Write Opened Files from/to the SQLite database;
 
